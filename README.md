@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bslavkov90
 - 👀 I’m interested in learning to program.
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate with my colleagues on SoftwareAcademy.
 - 📫 How to reach me - borisslavkov@abv.bg
 
 <!---
